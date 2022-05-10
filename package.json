@@ -1,0 +1,31 @@
+{
+  "name": "portfolio-zikos",
+  "version": "0.1.0",
+  "description": "A sample portfolio for me",
+  "engines": {
+    "node": "16.x"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.15.2"
+  },
+  "devDependencies": {
+    "got": "^11.3.0",
+    "tape": "^4.7.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "portfolio",
+    "zikos",
+    "hadi"
+  ],
+  "license": "MIT"
+}
